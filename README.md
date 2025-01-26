@@ -17,3 +17,6 @@ So, I have 2 JavaScript, 3 ejs and 1 css files.
 
 1 css file to style:
 style.css file where it contains stylying for ejs pages 
+
+
+https://github.com/AskatNa/assignment3.git
